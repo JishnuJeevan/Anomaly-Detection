@@ -7,7 +7,7 @@ This is the data set used for The Third International Knowledge Discovery and Da
 <i>NOTE: If you go to the link you will find that the dataset(when uncompressed) is 743M in size. Due to the vast computationl time and resources that is needed to process a dataset of that size, I have decided to use the following two dataset for training and testing:<i><br>
 <i>Training: kddcup.data_10_percent.gz A 10% subset. (2.1M; 75M Uncompressed) <i><br>
 <i>Testing: kddcup.newtestdata_10_percent_unlabeled.gz (1.4M; 45M Uncompressed)<i><br>
-<i>Labels of test data: corrected.gz Test data with corrected labels.<i></br>
+<i>Labels of test data: corrected.gz Test data with corrected labels.<i><br>
 </p>
 
 <h2><center> Dataset download </center></h2>
